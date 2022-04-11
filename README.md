@@ -26,6 +26,8 @@ Coming soon
 ### Full Results
 https://www.hackerrank.com/contests/utd-battle-of-brains-2022/leaderboard/1
 
+Note: Some solutions were coded using BenQ's template (https://github.com/bqi343)
+
 ### Team Statistics for each Problem:
 ##### Problem A: Odd men
 Solved by: Sam L.
