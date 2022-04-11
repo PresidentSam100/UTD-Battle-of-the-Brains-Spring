@@ -3,6 +3,7 @@
 ### Basic Information
 ##### Team Name:
 othsteam1
+
 ##### Team Members:
 Sam L. (me)
 
@@ -11,72 +12,89 @@ David Z.
 ##### Team Results:
 2nd Place among  ~125 participating teams
 
-All Problems Solved (perfect score)
+All 8 Problems Solved (perfect score)
 
 ##### Location:
 Virtual
+
 ##### Date:
 April 9th, 2022
 
-### Battle of the Brains Solution Sketches (for more detailed solutions to all problems)
-https://utdallas.app.box.com/s/devzi0g55bl56dc2vynqusmw6veq15pk
+### Battle of the Brains Detailed Solutions
+Coming soon
 
 ### Full Results
 https://www.hackerrank.com/contests/utd-battle-of-brains-2022/leaderboard/1
 
 ### Team Statistics for each Problem:
-##### Problem A: Hermits
+##### Problem A: Odd men
+Solved by: Sam L.
+
+Time: 4 minutes
+
+Attempts: 1
+
+Link: https://www.hackerrank.com/contests/utd-battle-of-brains-2022/challenges/odd-men
+
+##### Problem B: Whooosh!
 Solved by: David Z.
-Time: 9 minutes
+
+Time: 2 minutes
+
 Attempts: 1
-Link: https://open.kattis.com/contests/vm8cd3/problems/hermits
 
-##### Problem B: Fire!
-Solved by: David Z. & Daniel C. 
-Time: 34 minutes
-Attempts: 2
-Link: https://open.kattis.com/contests/vm8cd3/problems/fire3
+Link: https://www.hackerrank.com/contests/utd-battle-of-brains-2022/challenges/whooosh
 
-##### Problem C: Grazed Grains
-Solved by: Sam L. & David Z.
-Time: 9 minutes
-Attempts: 71
-Link: https://open.kattis.com/contests/vm8cd3/problems/grazedgrains
+##### Problem C: Comporial
+Solved by: Sam L. and David Z.
 
-##### Problem D: Mountain Scenes
+Time: 78 minutes
+
+Attempts: 3
+
+Link: https://www.hackerrank.com/contests/utd-battle-of-brains-2022/challenges/comporial
+
+##### Problem D: Awful Cipher
 Solved by: Sam L.
-Time: 39 minutes
-Attempts: 1
-Link: https://open.kattis.com/contests/vm8cd3/problems/scenes
 
-##### Problem E: Ocean's Anti-11
+Time: 20 minutes
+
+Attempts: 1
+
+Link: https://www.hackerrank.com/contests/utd-battle-of-brains-2022/challenges/awful-cipher
+
+##### Problem E: Wordle
+Solved by: David Z.
+
+Time: 29 minutes
+
+Attempts: 1
+
+Link: https://www.hackerrank.com/contests/utd-battle-of-brains-2022/challenges/wordle-2
+
+##### Problem F: Split the Vote
+Solved by: Sam L. and David Z.
+
+Time: 42 minutes
+
+Attempts: 1
+
+Link: https://www.hackerrank.com/contests/utd-battle-of-brains-2022/challenges/split-the-vote
+
+##### Problem G: Far From Home
 Solved by: Sam L.
-Time: 26 minutes
-Attempts: 2
-Link: https://open.kattis.com/contests/vm8cd3/problems/anti11
 
-##### Problem F: Mårten's Theorem
-Solved by: Sam L. & David Z.
-Time: 96 minutes
-Attempts: 2
-Link: https://open.kattis.com/contests/vm8cd3/problems/more10
+Time: 64 minutes
 
-##### Problem G: Locust Locus
-Solved by: Sam L.
-Time: 59 minutes
 Attempts: 1
-Link: https://open.kattis.com/contests/vm8cd3/problems/locustlocus
 
-##### Problem H: Knot Knowledge
-Solved by: Daniel C.
-Time: 12 minutes
+Link: https://www.hackerrank.com/contests/utd-battle-of-brains-2022/challenges/far-from-home-1
+
+##### Problem H: Khadgar
+Solved by: David Z.
+
+Time: 50 minutes
+
 Attempts: 1
-Link: https://open.kattis.com/contests/vm8cd3/problems/knotknowledge
 
-##### Problem I: Alehouse
-Solved by: David Z. & Daniel C.
-Time: 144 minutes 
-Attempts: 3 
-Link: https://open.kattis.com/contests/vm8cd3/problems/alehouse
-
-
+Link: https://www.hackerrank.com/contests/utd-battle-of-brains-2022/challenges/khadgar
